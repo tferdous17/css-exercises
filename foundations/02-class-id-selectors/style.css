@@ -1,0 +1,18 @@
+.odd {
+    background-color: rgb(180, 112, 172);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#num2 {
+    color: rgb(45, 89, 171);
+    font-size: 36px;
+}
+
+#num4 {
+    background: rgb(118, 180, 112);
+    font-weight: bold;
+}
